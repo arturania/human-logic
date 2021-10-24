@@ -1,6 +1,6 @@
 # Human Logic or Common Sense
 
-[![Build Status](https://github.com/arturania/human-logic/actions/workflows/build.yml/badge.svg)](https://github.com/arturania/human-logic/actions/workflows/build.yml) [![Coverage Status](https://coveralls.io/repos/github/arturania/human-logic/badge.svg?branch=master)](https://coveralls.io/github/arturania/human-logic?branch=master) ![NPM version](https://img.shields.io/npm/v/human-logic.svg) ![License](https://img.shields.io/github/license/arturania/human-logic.svg)
+[![Build Status](https://github.com/arturania/human-logic/actions/workflows/build.yml/badge.svg)](https://github.com/arturania/human-logic/actions/workflows/build.yml) [![Coverage Status](https://coveralls.io/repos/github/arturania/human-logic/badge.svg?branch=master)](https://coveralls.io/github/arturania/human-logic?branch=master) [![NPM version](https://img.shields.io/npm/v/human-logic.svg)](https://www.npmjs.com/package/human-logic) [![License](https://img.shields.io/github/license/arturania/human-logic.svg)](https://github.com/arturania/human-logic/blob/master/LICENSE)
 
 Human Logic (also known as “common sense”) is based on five categories:
 
